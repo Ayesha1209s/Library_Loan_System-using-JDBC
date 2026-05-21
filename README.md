@@ -207,9 +207,11 @@ Conclusion
 
 The project successfully demonstrates the implementation of JDBC database connectivity, transaction management, performance benchmarking, and database optimization using Apache Derby Embedded Database. The system validates ACID transaction properties, modular software architecture, and practical JDBC performance analysis techniques in Java.
 
-Developed By
+
 6th Semester Project
-Ummatul Ayesha
+
+Developed By---
+### **Ummatul Ayesha** 
 
 B.Tech CSE (Cyber Security)
 Regd No: 2341001122
